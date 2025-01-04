@@ -1,0 +1,211 @@
+* {
+box-sizing: border-box;
+}
+header{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(16, 107, 61);
+    color: bisque;
+    padding: 0px 100px;
+    
+    width: 100%;
+
+}
+
+header a{
+    color: bisque;
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 18px;
+    transition: ease 1s;
+    width: 100vw;
+}
+
+header a:hover{
+    color: rgb(218, 87, 12);
+    font-size: 20px;
+}
+
+.non {
+     height: 100vh;
+     width: 100vw;
+     display: flex;
+     align-items: center;
+     padding: 0px 100px;
+     background-image: url(image/iii.jpeg);
+     background-attachment: fixed;
+     background-blend-mode:overlay ;
+     background-size: contain;
+     background-size: 100%;
+    background-attachment: fixed;
+    background-blend-mode:overlay ;
+    background-color: rgb(90, 90, 90);
+    background-position: center;
+   
+}
+
+.non div {
+    color: rgb(75, 172, 112);
+    margin-right: 80%;
+}
+.non h2{
+    color: rgb(253, 246, 246);
+}
+.non span {
+    color: red;
+}
+.non h4{
+    color: beige;
+    background-color: rgb(185, 68, 14);
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.bb{
+    text-align: center;
+     width: 100vw;
+     background-image: url(image/iii.jpeg);
+     background-attachment: fixed;
+     background-blend-mode:overlay ;
+     background-size: contain;
+     background-size: 100%;
+     background-attachment: fixed;
+     background-blend-mode:overlay ;
+     background-position: center;
+     background-color: rgb(90, 90, 90);
+
+}
+.cc{
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+    flex-wrap: wrap;
+}
+.bb h2{
+    
+    text-align: center;
+    color: beige;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius:10px ;
+    background-color:rgb(185, 68, 14);;
+}
+.ca {
+
+    margin-right: 20px;
+    box-shadow: 10px 10px 20px 20px rgb(16, 107, 61);
+    width: 30%;
+    height: 170px;
+    margin-bottom: 20px;
+    text-align: center;
+    height: 300px;
+    border: solid;
+}
+
+.ca p{
+    font-size: 15px;
+}
+.pic{
+    width: 180px;
+    border-image-slice: 10%;
+}
+ 
+.ca g{
+    color: beige;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius:10px ;
+    background-color:rgb(190, 111, 74);;
+}
+
+
+
+
+
+
+
+
+
+
+.aa {
+    height: 100vh;
+     width: 100vw;
+     display: flex;
+     align-items: center;
+     padding: 0px 100px;
+     background-image:url(image/934072.jpg) ;
+     background-attachment: fixed;
+     background-blend-mode:overlay ;
+     background-size: contain;
+     background-size: 100%;
+    background-attachment: fixed;
+    background-blend-mode:overlay ;
+    background-color: rgb(90, 90, 90);
+    background-position: center;
+   
+}
+.t{
+    width: 300px;
+    border-image-slice: 40%; 
+}
+.t span{
+    color: rgb(255, 13, 13);
+}
+.t p{
+    font-size: 30px;
+    font-style: italic;
+    border: solid;
+    border: 0cqb;
+    margin-left: 10px;
+    color : rgb(238, 199, 148);
+}
+.t h2{
+    color: rgb(59, 53, 42);
+}
+
+
+
+
+
+
+
+
+.mm {
+height: 100vh;
+width: 100vw;
+display: flex;
+text-align: center;
+align-items: center;
+padding: 0px 60px;
+background-image: url(image/فف.jpg);
+background-attachment: fixed;
+background-blend-mode:overlay ;
+background-size: contain;
+background-size: 100%;
+background-attachment: fixed;
+background-blend-mode:overlay ;
+background-color: rgb(90, 90, 90);
+background-position: center;
+}
+.en{
+    text-align: center;
+    border: solid;
+    margin: 20% ;
+    color: rgb(243, 231, 213);
+
+}
+input{
+    width: 40%;
+    text-align: left;
+
+}
